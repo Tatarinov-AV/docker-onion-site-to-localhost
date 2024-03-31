@@ -1,4 +1,4 @@
-<p style='text-align: right;'>EN | RU</p>
+&#x202b; EN | RU
 
 
 ### Mirror onion site on localhost
